@@ -50,6 +50,6 @@ Here are some of my projects. Click to explore:
 ---
 
 ## 📈 GitHub Stats  
-![Jimm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJjimmyE&show_icons=true&theme=radical)
+![Jimm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJjimmy&show_icons=true&theme=radical)
 
 
