@@ -42,10 +42,10 @@
 
 ## 💻 Projects
 Here are some of my projects. Click to explore:  
-- [**C# calculator **]--C# calculator https://github.com/MJjimmy/calculator
+- [**C# calculator **](https://github.com/MJjimmy/calculator)
 
----
-
+  ---
+  
 ## 📈 GitHub Stats  
 ![Jimm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJjimmy&show_icons=true&theme=radical)
 
