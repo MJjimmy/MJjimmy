@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jimm!
+# 👋 Hey, I'm Jimmy!
 
 Aspiring Software Developer specializing in building robust backend systems and full-stack web applications. I am currently deepening my expertise in **Java, C#**, and modern web technologies.
 
@@ -57,15 +57,23 @@ I am actively seeking opportunities to apply my skills, contribute to meaningful
 
 ---
 
-## 📊 GitHub Stats
-![Jimm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+## 📚 Learning Path & Certifications
+- Currently learning **Intermediate Java & C# concepts**  
+- Exploring **RESTful API design** and **full-stack integration**  
+- Working through **React advanced patterns** and **state management**  
+- Certifications (planned or completed) can be listed here  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+---
+
+## 📊 GitHub Stats
+![Jimm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJimmy&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MJimmy&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MJimmy&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
 I'm always open to discussing technology, collaboration opportunities, or new ideas.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MothokaMalatjiJ@outlook.com)
