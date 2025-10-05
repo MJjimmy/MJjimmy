@@ -28,8 +28,6 @@
 
 ## 🚀 What I'm Working On  
 - Building small projects to practice Java & C#
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
 - Learning React to create interactive UIs  
 - Exploring backend development with Spring Boot and ASP.NET  
 
@@ -44,8 +42,7 @@
 
 ## 💻 Projects
 Here are some of my projects. Click to explore:  
-
-*(Replace the links with your actual repos.)*
+- [**C# calculator **]--C# calculator https://github.com/MJjimmy/calculator
 
 ---
 
