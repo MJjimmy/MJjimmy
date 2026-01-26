@@ -25,7 +25,8 @@ Aspiring Software Developer specializing in building robust backend systems and 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### **Projects***
-![Login System](https://github.com/MJjimmy/Login-System)
+![Java](ttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+[Login System](https://github.com/MJjimmy/Login-System)
 ![Contract Monthy claim](https://github.com/MJjimmy/Contract_Monthly_claim)
 ![Libray system](https://github.com/MJjimmy/LibrerySystem)
 ![Cyber-awareness](https://github.com/MJjimmy/Cyber-awareness?tab=readme-ov-file#cyber-awareness)
