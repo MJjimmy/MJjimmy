@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jimmy!
 
-Aspiring Software Developer specializing in building robust backend systems and full-stack web applications. I am currently deepening my expertise in **Java, C#**, and modern web technologies.
+Aspiring **Software Developer** with a strong interest in building reliable backend systems and structured full-stack applications. I am currently strengthening my skills in **Java**, **C#**, and modern web technologies through hands-on projects.
 
 ---
 
@@ -24,39 +24,27 @@ Aspiring Software Developer specializing in building robust backend systems and 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### **Projects***
-![Java](ttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-[Login System](https://github.com/MJjimmy/Login-System)
-![Contract Monthy claim](https://github.com/MJjimmy/Contract_Monthly_claim)
-![Libray system](https://github.com/MJjimmy/LibrerySystem)
-![Cyber-awareness](https://github.com/MJjimmy/Cyber-awareness?tab=readme-ov-file#cyber-awareness)
+---
 
-
+## 📂 Projects
+- 🔐 **[Login System](https://github.com/MJjimmy/Login-System)** – Java-based user authentication and validation system  
+- 📑 **[Contract Monthly Claim System](https://github.com/MJjimmy/Contract_Monthly_claim)** – ASP.NET MVC web application for submitting, processing, and tracking claims  
+- 📚 **[Library System](https://github.com/MJjimmy/LibrerySystem)** – Java application for managing books and users  
+- 🛡️ **[Cyber Awareness App](https://github.com/MJjimmy/Cyber-awareness)** – Desktop application focused on cybersecurity awareness and user interaction  
 
 ---
 
 ## 📖 About Me
-I am a dedicated beginner developer with a strong passion for problem-solving and creating efficient software. My learning path is focused on mastering object-oriented principles with **Java** and **C#**, while simultaneously building modern, interactive user interfaces with **React**. I am methodically working through the fundamentals of full-stack development, from designing relational databases to building RESTful APIs.
+I am a motivated junior developer with a strong interest in problem-solving and building practical software solutions. My learning journey is focused on mastering **object-oriented programming** using **Java** and **C#**, as well as understanding full-stack application structure and data flow.
 
-I am actively seeking opportunities to apply my skills, contribute to meaningful projects, and grow within a collaborative engineering team.
+I enjoy working on structured projects that involve business logic, validation, and user interaction, and I am continuously improving my skills through academic and personal projects.
 
----
-
-## 💻 Featured Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| Portfolio Website | A responsive personal portfolio website to showcase my projects and skills. | React, CSS3, Vercel/Netlify |
-| Inventory Management API | A RESTful API for managing product inventory with full CRUD operations. | Java, Spring Boot, PostgreSQL, Maven |
-| Task Management App | A desktop application for managing personal tasks and to-do lists. | C#, .NET, Windows Forms |
-| Weather Dashboard | An interactive dashboard that fetches and displays current weather data. | React, JavaScript, CSS, OpenWeather API |
+I am actively seeking opportunities to learn, contribute, and grow as part of a collaborative development team.
 
 ---
 
 ## 🎯 Current Focus & Goals for 2025
-- **Deepen Backend Knowledge:** Solidify understanding of Spring Boot and ASP.NET Core by building more complex, data-driven applications.  
-- **Master Full-Stack Integration:** Seamlessly connect frontend React applications to backend APIs I build.  
-- **Open Source Contribution:** Make my first meaningful contribution to an open-source project.  
-- **Portfolio Development:** Create 2-3 comprehensive full-stack projects to demonstrate capabilities to potential employers.
-
----
+- Strengthen backend development skills using **Java** and **ASP.NET MVC/Core**
+- Improve database design and integration with relational databases
+- Build more complete, real-world applications
+- Prepare for internship or entry-level software development roles
