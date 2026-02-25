@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jimmy!
 
-Aspiring **Software Developer** with a strong interest in building reliable backend systems and structured full-stack applications. I am currently strengthening my skills in **Java**, **C#**, and modern web technologies through hands-on projects.
+Am **Software Developer** with a strong interest in building reliable backend systems and structured full-stack applications. I am currently strengthening my skills in **Java**, **C#**, and modern web technologies through hands-on projects.
 
 ---
 
