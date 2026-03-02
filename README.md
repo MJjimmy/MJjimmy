@@ -28,10 +28,4 @@ I enjoy working on structured projects that involve business logic, validation, 
 
 I am actively seeking opportunities to learn, contribute, and grow as part of a collaborative development team.
 
----
 
-## 🎯 Current Focus & Goals for 2025
-- Strengthen backend development skills using **Java** and **ASP.NET MVC/Core**
-- Improve database design and integration with relational databases
-- Build more complete, real-world applications
-- Prepare for internship or entry-level software development roles
