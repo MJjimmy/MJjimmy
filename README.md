@@ -52,10 +52,10 @@ Java application for managing books, users, and library operations using solid O
 ### 🛡️ [Cyber Awareness App](https://github.com/MJjimmy/Cyber-awareness)
 Desktop app focused on cybersecurity education, user interaction, and practical security concepts.
 
-### 📘 StudySync
+### 📘 [StudySync](https://github.com/MJjimmy/studysync)
 A collaboration platform helping students manage study groups, tasks, files, and communication in one place. Built as part of a team project — I owned data architecture and backend integration.
 
-### 💰 VaultWise
+### 💰 [VaultWise](https://github.com/MJjimmy/VaultWise)
 An Android budgeting app (Kotlin, Room, MVVM) for tracking spending, managing budgets, and building better financial habits.
 
 ---
